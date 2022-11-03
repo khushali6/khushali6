@@ -13,5 +13,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushali6&show_icons=true&locale=en&layout=compact" alt="khushali6" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushali6&show_icons=true&locale=en" alt="khushali6" /></p>
-

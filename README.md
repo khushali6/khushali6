@@ -1,7 +1,7 @@
 # 👋Hello World! I'm Khushali - a Tech Explorer 🌐✨
-I'm a senior pursuing BE in Computer Engineering and a Web Developer from India. Here's a bit about me:
-- I speak the languages of Java, PHP, Python, Javascript, C++, and C. 🚀
-- Navigating the tech landscape, I craft wonders with Django, Spring Boot, and tame databases like MySQL, SQLite, and MongoDB.
+I'm a senior pursuing BE in Computer Engineering and a Software Developer from India. Here's a bit about me:
+- I speak the languages of Java, Python, Javascript, C++, and C. 🚀
+- Navigating the tech landscape, I craft wonders with Django, Spring Boot, Machine Learning , Deep Learning, Computer Vision and tame databases like MySQL, SQLite, and MongoDB.
 - Git, Postman, Rest-API, Docker, Azure, and Google Cloud Platform are my trusty companions in this coding odyssey 💼
 - Currently, I'm delving into the mysteries of Kubernetes and venturing into the open-source realm.
 - I'm eager to collaborate on projects, learn, and contribute to projects. Let's connect and create something extraordinary! 💻🌟
